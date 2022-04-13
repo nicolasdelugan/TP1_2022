@@ -6,13 +6,13 @@ Los integrantes del grupo de trabajo son:
 
 1- Clara Castilla <clara@uncorreo.com>
 
-2- 
+2- Oliverio Gabrielli <oliveriogabrielli@yahoo.com.ar>
 
-3- 
+3- Marcos Manchon <mail>
 
-4- 
+4- Genaro Galera <mail>
 
-5- 
+5- Nicolas Delugan <mail>
 
 No olviden poner a todos los integrantes del grupo y sos correos.
 
