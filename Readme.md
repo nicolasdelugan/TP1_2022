@@ -4,7 +4,7 @@ Perteneciente a la asignatura Técnicas y Herramientas Modernas I de la FAcultad
 
 Los integrantes del grupo de trabajo son:
 
-1- Clara Castilla <clara@uncorreo.com>
+1- Clara Castilla <clari.castilla@gmail.com>
 
 2- Oliverio Gabrielli <oliveriogabrielli@yahoo.com.ar>
 
