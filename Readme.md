@@ -8,11 +8,15 @@ Los integrantes del grupo de trabajo son:
 
 2- Oliverio Gabrielli <oliveriogabrielli@yahoo.com.ar>
 
-3- Marcos Manchón <mail>
+3- Marcos Manchón <marcosmanchon16@gmail.com>
 
-4- Genaro Galera <mail>
+4- Genaro Galera <gena.galera@gmail.com>
 
-5- Nicolás Delugan <mail>
+5- Nicolás Delugan <nicolasdelugan@gmail.com>
 
-No olviden poner a todos los integrantes del grupo y sos correos.
+No olviden poner a todos los integrantes del grupo y sos correos.[TP1 Grupo Clara.docx]
+
+Informe Módulo 1:
+(https://github.com/claracastilla/TP1_2022/files/8482861/TP1.Grupo.Clara.docx)
+
 
