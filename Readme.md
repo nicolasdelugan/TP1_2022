@@ -19,4 +19,8 @@ No olviden poner a todos los integrantes del grupo y sos correos.[TP1 Grupo Clar
 Informe Módulo 1:
 (https://github.com/claracastilla/TP1_2022/files/8482861/TP1.Grupo.Clara.docx)
 
+CV Módulo 2:
+1-Marcos Manchon [cv manchon.pdf](https://github.com/claracastilla/TP1_2022/files/8517053/cv.manchon.pdf)
+
+
 
