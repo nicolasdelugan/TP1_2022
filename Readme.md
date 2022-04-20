@@ -1,6 +1,6 @@
-Este es el erchivo del grupo de *Clara Castilla*.
+Este es el archivo del grupo de *Clara Castilla*.
 
-Perteneciente a la asignatura Técnicas y Herramientas Modernas I de la FAcultad de Ingeniería.
+Perteneciente a la asignatura Técnicas y Herramientas Modernas I de la Facultad de Ingeniería.
 
 Los integrantes del grupo de trabajo son:
 
@@ -21,6 +21,7 @@ Informe Módulo 1:
 
 CV Módulo 2:
 1-Marcos Manchon [cv manchon.pdf](https://github.com/claracastilla/TP1_2022/files/8517053/cv.manchon.pdf)
+2-Oliverio Gabrielli [CV Látex Oliverio.pdf](https://github.com/claracastilla/TP1_2022/files/8517947/CV.Latex.Oliverio.pdf)
 
 
 
